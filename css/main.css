@@ -1265,11 +1265,11 @@
   bottom: 19%;
   left: 15% !important;
 }
-@media all and (min-width: 320px) {
+/* @media all and (min-width: 320px) {
   .blog .container .blog__row .blog__item3 .blog__title3::after {
     left: 10% !important;
   }
-}
+} */
 .blog .container .blog__link {
   position: relative;
   margin-top: 70px;
